@@ -6,8 +6,7 @@ Curious mind, always exploring new technologies & continuously learning.
 
 
 ## Projects
-
-📌 You can find all my projects here on my GitHub profile!
+You can find all my projects here on my GitHub profile!
 
 ## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
