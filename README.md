@@ -31,5 +31,3 @@ Curious mind, always exploring new technologies & continuously learning.
 ## 📊 GitHub Stats
 
 ![Ranim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranim180&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=ranim180&theme=tokyonight)
-
