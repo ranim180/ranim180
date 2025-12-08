@@ -24,7 +24,7 @@ You can find all my projects here on my GitHub profile!
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
-
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 
 ## 📊 GitHub Stats
