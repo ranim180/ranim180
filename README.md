@@ -25,7 +25,9 @@ You can find all my projects here on my GitHub profile!
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
+![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![SQLDeveloper](https://img.shields.io/badge/-SQLDeveloper-04778A?logo=oracle&logoColor=white)
 
 ## 📊 GitHub Stats
 
